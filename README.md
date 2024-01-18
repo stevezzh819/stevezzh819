@@ -1,4 +1,4 @@
-Zhang Zehua (Steve) - Portfolio \
+Zhang Zehua (Steve) \
 Welcome to my GitHub page! I'm Steve. I'm currently an Electrical Engineering student at the National University of Singapore (NUS), specializing in Advanced Electronics. 
 
 About Me \
